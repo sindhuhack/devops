@@ -22,5 +22,5 @@ pipeline {
 
 user
 password
-email
+email: hackmehacker321@gmail.com
 token
