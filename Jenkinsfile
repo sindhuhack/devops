@@ -19,3 +19,8 @@ pipeline {
    }
 }
 }
+
+user
+password
+email
+token
